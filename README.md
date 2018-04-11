@@ -1,7 +1,7 @@
 # 100 días de Javascript
 *Un proyecto personal de aprendizaje de Javascript moderno*
 
-!(./ES6-Header.jpg)
+![ES6 Header](/ES6-Header.jpg)
 
 ## Introducción
 Con el objetivo principal de practicar Javascript (sin frameworks ni librerías) y desarrollar habilidades para el desarrollo Front-End, estaré realizando 100 proyectos pequeños de JavaScript.
