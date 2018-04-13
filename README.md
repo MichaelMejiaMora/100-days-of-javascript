@@ -14,4 +14,8 @@ Para realizar cada projecto integraré las buenas prácticas de código aprendid
 
 
 ## Proyectos
+### Día 1
+Función que calcula el Máximo Común Divisor (MCD) de un conjunto de números enteros.
 
+### Día 2
+Función que calcula el Mínimo Común Múltiplo (MCM) de un conjunto de números enteros.
