@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Sistemas de numeración</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Sistemas de numeración</h1>
+    <p>Introduzca el valor a convertir, indique el tipo de conversión y de click en <span>Convertir!</span></p>
+    <article>
+      <form action="">
+        <div class="inner-container">
+            <label for="from">De:</label>
+            <select name="from" id="from">
+              <option value="10" selected>Decimal</option>
+              <option value="2">Binario</option>
+              <option value="8">Octal</option>
+              <option value="16">Hexadecimal</option>
+            </select>
+            <input type="text" id="input">
+            <label for="to">A:</label>
+            <select name="to" id="to">
+                <option value="10">Decimal</option>
+                <option value="2" selected>Binario</option>
+                <option value="8">Octal</option>
+                <option value="16">Hexadecimal</option>
+              </select>
+            <input type="text" id="output" disabled>
+        </div>        
+        <button id="convert">Convertir!</button>
+      </form>
+      <div id="error"></div>
+    </article>
+    
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
