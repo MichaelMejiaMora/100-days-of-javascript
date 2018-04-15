@@ -1,4 +1,4 @@
-# Mínimo Común Múltiplo
+# Conversión entre sistemas de numeración
 
 ## Descripción
 Apliciación que realiza conversiones entre diferentes sistemas numéricos (binario, octal, decimal y hexadecimal).
